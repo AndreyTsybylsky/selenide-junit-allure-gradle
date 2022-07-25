@@ -1,0 +1,11 @@
+{
+  "chrome": {
+    "default": "102.0",
+    "versions": {
+      "102.0": {
+        "image": "latest",
+        "port": "4444"
+      }
+    }
+  }
+}
